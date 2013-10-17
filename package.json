@@ -1,0 +1,30 @@
+{
+  "name": "twitterbot",
+  "version": "0.0.0",
+  "main": "lib/twitterbot.js",
+  "description": "Automate your twitter experience",
+  "homepage": "http://jump.raszyk.de/twitterbot",
+  "bugs": "https://github.com/posixpascal/twitterbot/issues",
+  "author": {
+    "name": "Pascal Raszyk",
+    "email": "pascal@raszyk.de",
+    "url": "http://pascalraszyk.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/posixpascal/twitterbot"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  }
+}
